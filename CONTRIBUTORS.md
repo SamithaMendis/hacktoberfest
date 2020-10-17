@@ -2438,3 +2438,8 @@ Noida
 -Bio: Undergraduate student of MIS
 - Github:[Hasini Uththara] https://github.com/HasiniUththara
 
+#### Name: [Sam Mendis](https://github.com/SamithaMendis)
+-Place: Sri Lanka
+-Bio: Undergraduate at NSBM
+- Github:[Sam Mendis] https://github.com/SamithaMendis
+
